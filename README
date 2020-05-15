@@ -1,0 +1,8 @@
+The project is called Audience and contains 2 main classes:
+
+1. A class called Members containing the source code.
+2. A class called TestMembers containing unit tests.
+
+In order to see the project and run the unit tests, you should have JDK, SBT,
+Scala and an IDE installed. The best IDE for showing the project is IntelliJ.
+It is verified to work for: JDK 1.8, SBT 1.2.8, Scala 2.11.8 and IntelliJ 2018.3.
